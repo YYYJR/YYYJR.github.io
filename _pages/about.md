@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hi,This is Junru Yang(杨君茹)"
 excerpt: ""
 author_profile: true
 redirect_from: 
