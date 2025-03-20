@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/YYYJR"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  Wechat           : YJR147789
 
 # Reading Files
 include:
