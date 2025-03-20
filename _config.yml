@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junru Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "A college girl who loves to learn."
+  bio              : #"A college girl who loves to learn."
   location         : "Qingdao, China"
-  employer         : "China University of Petroleum (East China)"
+  employer         : "China University of Petroleum"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "2209060106@s.upc.edu.cn"
