@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi,This is Junru Yang(杨君茹)"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -16,6 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
+Hi,This is **Junru Yang(杨君茹)**.
 
 I am a third year undergraduate student from China University of Petroleum (East China). In 2022, I was selected to enter the Science Experimental Class of the College of Science. After major streaming, I am now studying Electronic Information (Experimental) Engineering in the College of Marine Space and Information.
 
