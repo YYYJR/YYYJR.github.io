@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Junru Yang"
-  avatar           : "yjr.png"
+  avatar           : /images/yjr.png
   bio              : #"A college girl who loves to learn."
   location         : "Qingdao, China"
   employer         : "China University of Petroleum"
@@ -30,7 +30,7 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "2209060106@s.upc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://YYYJR.github.io"
+  uri              : https://YYYJR.github.io
   bitbucket        :
   codepen          :
   dribbble         :
