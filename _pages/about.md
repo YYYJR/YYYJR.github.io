@@ -38,4 +38,4 @@ My major is electronic information, and my direction of interest is **integrated
 - *?* MCM National University Students Mathematical Modelling Competition, "Research on Decision-making Model of Electronic Product Production", Second Prize of Shandong Province.
 
 # 📖 Educations
-- *2022.09 - presen*, Undergraduate, China University of Petroleum (East China), Qingdao
+- *2022.09 - present*, Undergraduate, China University of Petroleum (East China), Qingdao
