@@ -35,7 +35,7 @@ My major is electronic information, and my direction of interest is **integrated
 - *2023.12* National University Physics Experiment Competition, "Design and Production of Thermistor Digital Thermometer", national second prize
 - *2024.12* Information Security and Countermeasure Technology Competition for College Students, "Automatic Driving on City Roads" , national excellent prize.
 - *2024.7* Numerical Dimension Cup Mathematical Modelling Competition for Undergraduates, "Research on Co-Pyrolysis Problem of Biomass and Coal", National First Prize.
-- *?* MCM National University Students Mathematical Modelling Competition, "Research on Decision-making Model of Electronic Product Production", Second Prize of Shandong Province.
+- *2024.11* MCM National University Students Mathematical Modelling Competition, "Research on Decision-making Model of Electronic Product Production", Second Prize of Shandong Province.
 
 # 📖 Educations
 - *2022.09 - present*, Undergraduate, China University of Petroleum (East China), Qingdao
