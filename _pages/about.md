@@ -24,7 +24,8 @@ I am a third year undergraduate student from China University of Petroleum (East
 My major is electronic information, and my direction of interest is **integrated circuits, electronic packaging, and radar**.
 
 # 🔥 News
-- 2025.03：I uploaded my first GitHub project as an undergrad! 
+- 2025.03：I uploaded my first GitHub project as an undergrad!
+- 2025.04：My first SCI paper in the second division has been successfully accepted!
 
 # 📝 Scientific Research Experience
 - *2024.01 - 2024.07* Adaptive Robust MIMO Radar Target Localization via Capped Frobenius Norm.
